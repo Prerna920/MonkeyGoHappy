@@ -37,7 +37,7 @@ function setup() {
 
 function draw() {
 
-  background(255);
+  background("pink");
 
 
   if (ground.x < 0) {
